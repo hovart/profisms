@@ -1,0 +1,17 @@
+Number, Date, Name, Phone, Age, Email
+1, 2024-12-31 23:59:59, John Doe, +374 00 000000, 30, john@example.com
+2, 2024-07-28 21:59:59, James Doe, +374 00 000000, 25, john@example.com
+3, 2023-11-10 10:45:32, Jane Smith, +374 00 000000, 40, jane@example.com
+4, 2024-03-15 15:30:00, Alice Johnson, +374 00 000000, 35, alice@example.com
+5, 2024-08-20 08:15:00, Robert Brown, +374 00 000000, 45, robert@example.com
+6, 2024-05-07 12:00:00, Emily Davis, +374 00 000000, 50, emily@example.com
+7, 2024-10-22 18:25:10, Michael Wilson, +374 00 000000, 55, michael@example.com
+8, 2024-02-28 09:30:45, Sarah Taylor, +374 00 000000, 60, sarah@example.com
+9, 2024-06-14 14:10:20, David Miller, +374 00 000000, 65, david@example.com
+10, 2024-04-17 11:05:30, Olivia Anderson, +374 00 000000, 70, olivia@example.com
+11, 2024-09-09 16:40:50, William Harris, +374 00 000000, 75, william@example.com
+12, 2024-11-21 07:55:15, Isabella Martinez, +374 00 000000, 80, isabella@example.com
+13, 2024-01-30 13:20:00, Lucas Moore, +374 00 000000, 85, lucas@example.com
+14, 2024-05-25 20:45:25, Mia Clark, +374 00 000000, 90, mia@example.com
+15, 2024-07-13 10:30:40, Alexander Lewis, +374 00 000000, 95, alexander@example.com
+16, , ArT Lewis, +374 00 000000, 95, alexander@example.com

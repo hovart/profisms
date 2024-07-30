@@ -1,0 +1,20 @@
+{
+  "name": "profisms/import",
+  "description": "Import csv or data",
+  "require": {
+    "php": ">=7.4",
+    "ext-iconv": "*",
+    "ext-json": "*",
+    "phpoffice/phpexcel": "^1.8",
+    "ext-fileinfo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Multi\\": "src/multi/classes"
+    },
+    "files": [
+      "src/utils/functions.php",
+      "src/utils/globals.php"
+    ]
+  }
+}
