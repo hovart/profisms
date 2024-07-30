@@ -52,7 +52,7 @@ if ($importfrom == 'list') {
     {
         $newDate = getString('date');
 
-        if ($reader == 'csv')
+        if ($reader == 'CSV')
         {
             $objReader = PHPExcel_IOFactory::createReader($reader);
             $objReader

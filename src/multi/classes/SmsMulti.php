@@ -32,7 +32,7 @@ class SmsMulti
 
         // Use pathinfo() to get the file extension
         $fileInfo = pathinfo($filename);
-        $fileExtension = strtolower($fileInfo['extension']);
+        $fileExtension = strtoupper($fileInfo['extension']);
         return $fileExtension;
     }
 
